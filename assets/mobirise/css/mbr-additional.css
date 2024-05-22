@@ -1038,6 +1038,14 @@ a {
   .cid-tJS6tZXiPa .navbar {
     min-height: 72px;
   }
+  .cid-tJS6tZXiPa .navbar .container {
+    justify-content: center !important;
+  }
+  .cid-tJS6tZXiPa .navbar .container .navbar-brand {
+    margin: 0;
+    padding: 0;
+    padding-top: 2.5rem;    
+  }
 }
 @media (max-width: 991px) {
   .cid-tJS6tZXiPa .navbar .nav-item .nav-link::before {
